@@ -5,6 +5,10 @@ browser benchmarks comparing different methods for storing nostr events in the b
 
 ## results
 
+the results sample come as screenshots from my browser:
+
+![](https://github.com/user-attachments/assets/9bc39448-140b-4daf-a64f-2d15b9ab7389)
+![](https://github.com/user-attachments/assets/c1131e86-68dc-49a6-91f9-7f20e12875f7)
 
 
 ## to run
