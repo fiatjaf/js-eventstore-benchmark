@@ -1,8 +1,15 @@
 {
   "type": "module",
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5"
+  },
   "dependencies": {
     "@nostr/gadgets": "npm:@jsr/nostr__gadgets@^0.0.23",
+    "@nostr/tools": "npm:@jsr/nostr__tools@^2.13.1",
+    "@openjs/superdiff": "npm:@jsr/openjs__superdiff@^1.0.0",
     "@snort/worker-relay": "^1.3.1",
-    "vitest": "^3.1.4"
+    "benchmate": "^1.12.0"
   }
 }
